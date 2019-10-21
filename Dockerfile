@@ -1,5 +1,5 @@
 FROM alpine:3.10.2
-MAINTAINER sironekotoro <develop@sironekotoro.com>
+LABEL maintainer "sironekotoro <develop@sironekotoro.com>"
 # I created it based on ytnobody's image
 # https://hub.docker.com/r/ytnobody/alpine-perl
 
