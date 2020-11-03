@@ -1,4 +1,4 @@
-FROM alpine:3.10.2
+FROM alpine:3.12.1
 LABEL maintainer "sironekotoro <develop@sironekotoro.com>"
 # I created it based on ytnobody's image
 # https://hub.docker.com/r/ytnobody/alpine-perl
